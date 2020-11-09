@@ -26,6 +26,7 @@ In this Repo i worked on Django Rest Api Assighnemnets.
 * Python (3.8)
 * Django (3.1)
 * Postman/Browser to PUT and GET Data
+* Sqlite3
 
 # Installation
   Firist you need to clone this repo then
