@@ -7,18 +7,18 @@ In this Repo i worked on Django Rest Api Assighnemnets.
 
 # Qutions: 
     a. Create a database (use sqlite3 database if using Python or any local DB) containing two tables Books and Authors. 
-    Add appropriate columns to the tables. Every bookhas a single author and referential integrity should be maintained
+    Add appropriate columns to the tables. Every bookhas a single author and referential integrity should be maintained.
   
     b. Create a Rest API which supports the following operations:
-      - Insert, update and select on Books
+      - Insert, update and select on Books.
       - Handle exception for adding Authors who are not present in the able.
 
     c. Please follow industry standards while writing the code and include basic schema and data validations.
 
-    d. Use one of the following languages
-      - Python
+    d. Use one of the following languages:
+      - Python.
       - Java/dotnetiii.
-      - NodeJS
+      - NodeJS.
   
   
 # Requirements
