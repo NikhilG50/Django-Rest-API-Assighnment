@@ -6,7 +6,8 @@ Django REST framework is a powerful and flexible toolkit for building Web APIs.
 In this Repo i worked on Django Rest Api Assighnemnets.
 
 # Qutions: 
-    a. Create a database (use sqlite3 database if using Python or any local DB) containing two tables Books and Authors. Add appropriate columns to the tables. Every bookhas a single author and referential integrity should be maintained
+    a. Create a database (use sqlite3 database if using Python or any local DB) containing two tables Books and Authors. 
+    Add appropriate columns to the tables. Every bookhas a single author and referential integrity should be maintained
   
     b. Create a Rest API which supports the following operations:
       - Insert, update and select on Books
