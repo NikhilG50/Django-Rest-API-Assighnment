@@ -1,7 +1,3 @@
-# required libraries
-# Python version --3.7
-# Django
-
 #installing jango
 python -m pip install Django
 
@@ -10,7 +6,3 @@ pip3 install django-star-ratings
 
 #installing rest framework
 pip3 install rest_framework
-
-# postman/Browser to Pet and Put Data
-
-
