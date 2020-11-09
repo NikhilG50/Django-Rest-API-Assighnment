@@ -41,6 +41,17 @@ In this Repo i worked on Django Rest Api Assighnemnets.
 
 # Add Scren shots of outputs ---self reference
 
+* AuthourList
+![alt text](https://github.com/NikhilG50/Django-Rest-API-Assighnment/blob/main/Output_Screenshots/AuthourList.png)
+
+* BookList
+![alt text](https://github.com/NikhilG50/Django-Rest-API-Assighnment/blob/main/Output_Screenshots/BookList.png)
+
+* author detail
+![alt text](https://github.com/NikhilG50/Django-Rest-API-Assighnment/blob/main/Output_Screenshots/AuthorDetail_3rd.png)
+
+* Book Detail
+![alt text](https://github.com/NikhilG50/Django-Rest-API-Assighnment/blob/main/Output_Screenshots/BookDetail_1.png)
 
 
 
