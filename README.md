@@ -42,17 +42,29 @@ In this Repo i worked on Django Rest Api Assighnemnets.
 # Output Screenshots 
 **(Note: local host may change based on that you have to specify local host port number)**
 
+* To get the admin Panal  we need to pass `http://127.0.0.1:8000/admin/` in Browser it appears as below image
+
+![alt text](https://github.com/NikhilG50/Django-Rest-API-Assighnment/blob/main/Output_Screenshots/adminPanal_view.png)
+
+
+
 * To get the AuthourList we need to pass `http://127.0.0.1:8000/author/` in Browser it appears as below image
 
 ![alt text](https://github.com/NikhilG50/Django-Rest-API-Assighnment/blob/main/Output_Screenshots/AuthourList.png)
+
+
 
 * To get BookList we need to pass `http://127.0.0.1:8000/author/` in Browser it appears as below image
 
 ![alt text](https://github.com/NikhilG50/Django-Rest-API-Assighnment/blob/main/Output_Screenshots/BookList.png)
 
+
+
 *To get Specific author detail  we need to pass  `http://127.0.0.1:8000/author_detail/3/` in Browser it appears as below image
 
 ![alt text](https://github.com/NikhilG50/Django-Rest-API-Assighnment/blob/main/Output_Screenshots/AuthorDetail_3rd.png)
+
+
 
 * To get Specific Book Detail we we need to pass  `http://127.0.0.1:8000/book_detail/1/` in Browser it appears as below image
  
