@@ -39,18 +39,23 @@ In this Repo i worked on Django Rest Api Assighnemnets.
 
 **Output**: *Screenshot from the browsable API*
 
-# Add Scren shots of outputs ---self reference
+# Output Screenshots 
+**(Note: local host may change based on that you have to specify local host port number)**
 
-* AuthourList
+* To get the AuthourList we need to pass `http://127.0.0.1:8000/author/` in Browser it appears as below image
+
 ![alt text](https://github.com/NikhilG50/Django-Rest-API-Assighnment/blob/main/Output_Screenshots/AuthourList.png)
 
-* BookList
+* To get BookList we need to pass `http://127.0.0.1:8000/author/` in Browser it appears as below image
+
 ![alt text](https://github.com/NikhilG50/Django-Rest-API-Assighnment/blob/main/Output_Screenshots/BookList.png)
 
-* author detail
+*To get Specific author detail  we need to pass  `http://127.0.0.1:8000/author_detail/3/` in Browser it appears as below image
+
 ![alt text](https://github.com/NikhilG50/Django-Rest-API-Assighnment/blob/main/Output_Screenshots/AuthorDetail_3rd.png)
 
-* Book Detail
+* To get Specific Book Detail we we need to pass  `http://127.0.0.1:8000/book_detail/1/` in Browser it appears as below image
+ 
 ![alt text](https://github.com/NikhilG50/Django-Rest-API-Assighnment/blob/main/Output_Screenshots/BookDetail_1.png)
 
 
